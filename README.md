@@ -18,7 +18,7 @@ The Employment Scam Aegean Dataset (EMSCAD), which is used in the model, is avai
 ### Visualizing dataset based on location 
 
 <p align="center">
-  <img width="460" height="300" src="img1.PNG">
+  <img width="460" height="300" src="https://github.com/farhafaiza/fake_job-Prediction/blob/main/img2.png?raw=true">
 </p>
 
 ### Visualizing dataset based on Experience
