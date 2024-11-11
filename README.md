@@ -15,6 +15,18 @@ A machine learning model called Fake-Job-Predictor is built on Python and employ
 ## Dataset Analysis
 The Employment Scam Aegean Dataset (EMSCAD), which is used in the model, is available [here.](https://www.kaggle.com/recruitment-scam/amruthjithrajvr)
 
+### Visualizing dataset based on location 
+
+<p align="center">
+  <img width="460" height="300" src="img1.PNG">
+</p>
+
+### Visualizing dataset based on Experience
+
+<p align="center">
+  <img width="460" height="300" src="img2.PNG">
+</p>
+
 ## Model Assessment 
 
 ### The Naive Bayes Method 
