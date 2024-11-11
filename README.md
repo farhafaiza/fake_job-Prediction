@@ -42,7 +42,7 @@ The second method made use of a decision tree classifier, which divides the inpu
 The accuracy of classification is 0.8173076923076923.
 Heat map:
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/farhafaiza/fake_job-Prediction/blob/main/img4.png?raw=true">
 </p>
 
 
