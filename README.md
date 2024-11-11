@@ -32,9 +32,17 @@ The Employment Scam Aegean Dataset (EMSCAD), which is used in the model, is avai
 ### The Naive Bayes Method 
 In the first method, the category text data was analyzed using Multinomial Naive Bayes, one of the most widely used supervised learning classifiers. <br>
 The accuracy of classification is 0.8980769230769231. <br>
+Heat map:
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
 
 ### Decision Tree Classifier
 The second method made use of a decision tree classifier, which divides the input space into regions in order to classify inputs. 
 The accuracy of classification is 0.8173076923076923.
+Heat map:
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
 
 
