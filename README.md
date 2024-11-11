@@ -34,7 +34,7 @@ In the first method, the category text data was analyzed using Multinomial Naive
 The accuracy of classification is 0.8980769230769231. <br>
 Heat map:
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/farhafaiza/fake_job-Prediction/blob/main/img3.png?raw=true">
 </p>
 
 ### Decision Tree Classifier
